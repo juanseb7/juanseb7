@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ingjsebastiangarciap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ingjsebastiangarciap" height="30" width="40" /></a>
 <a href="https://instagram.com/sebtecnologia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebtecnologia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sebtecnologia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sebtecnologia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sebtecnologia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sebtecnologia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
